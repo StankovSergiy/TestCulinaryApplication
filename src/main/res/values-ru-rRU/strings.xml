@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TestCulinaryApplication</string>
+
+    <!--main activity-->
+    <string name="hint_search">Поиск</string>
+
+    <!--toast-->
+    <string name="toast_msg_none_http_response">Рецепт не найден! Проверьте интернет соединение.</string>
+    <string name="no_matches_was_found">Нет совпадений по Вашему поиску! Пробуйте еще или проверьте интернет соединение! </string>
+
+</resources>
